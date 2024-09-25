@@ -12,7 +12,7 @@
 ## General Information
 The primary objective of this study is to:
 Identify key predictors of loan default: Determine which customer and loan attributes have the strongest correlation with default.
-Provide actionable insights: Offer recommendations to lending institutions to mitigate credit risk and improve their decision-making processes.
+Provide actionable insights: Offer recommendations to lending Company to mitigate credit risk and improve their decision-making processes.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
